@@ -23,6 +23,7 @@ class Kitten {
 		'~(=^･ω･^)ﾉ',
 		'=^∇^*=',
 		'(ㅇㅅㅇ)',
+		'(^o^)ﾉ”',
 	];
 
 	public static function get()
