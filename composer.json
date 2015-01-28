@@ -12,7 +12,7 @@
 
 	"autoload": {
 		"files": [
-			"src/Kittens.php"
+			"src/Kitten.php"
 		]
 	}
 }
