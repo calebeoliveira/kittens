@@ -1,5 +1,5 @@
 # kittens
-PHP ASCII random kitten generator.
+Useless PHP random ASCII kitten generator. Just for fun.
 
 Usage:
 
@@ -16,3 +16,4 @@ require 'vendor/autoload.php';
 echo Kitten::get();
 // Output: ~(=^‥^)/
 ```
+Purr! (enjoy!)
