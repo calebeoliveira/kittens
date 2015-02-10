@@ -30,4 +30,9 @@ class Kitten {
 	{
 		return self::$cats[array_rand(self::$cats)];
 	}
+
+	public static function append(array &$array, $key = 'kitten')
+	{
+		$array[$key] = self::get();
+	}
 }
